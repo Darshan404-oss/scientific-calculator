@@ -24,6 +24,7 @@ calculator/
 ├── index.html # Main structure of the calculator
 ├── style.css # Styling and layout
 └── script.js # Calculator logic 
-LIVE DEMO - 
+LIVE DEMO - https://realfighter.github.io/scientific-calculator/
+
 
 
